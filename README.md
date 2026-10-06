@@ -1,6 +1,6 @@
 # 🚲 Bike Store Sales Analysis
 
-An end-to-end SQL analytics project on a fictional bike store chain — from building the relational database to answering real business questions with structured queries.
+An end-to-end SQL analytics project on a fictional bike store chain from building the relational database to answering real business questions with structured queries.
 
 ![Banner](assets/banner.png)
 
@@ -21,7 +21,7 @@ It's structured in three stages:
 
 | | |
 |---|---|
-| **Source** | [Kaggle — Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database) by Dillon Myrick |
+| **Source** | [Kaggle - Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database) by Dillon Myrick |
 | **Total tables** | 9 |
 | **Total rows** | 9,071 |
 | **Orders** | 1,615 |
@@ -146,7 +146,7 @@ git clone https://github.com/Girban28/bike-store-sql-analytics.git
 03_bp01_revenue.sql       ← and so on
 ```
 3. Import the CSV files using **Table Data Import Wizard** after creating each table
-4. Dataset download: [Kaggle — Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
+4. Dataset download: [Kaggle - Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database)
 
 > ⚠️ CSV files are not included in this repository due to Kaggle's license. Please download directly from the link above.
 
