@@ -148,3 +148,6 @@ git clone https://github.com/Girban28/bike-store-sql-analytics.git
 3. Import the CSV files using **Table Data Import Wizard** after creating each table
 
 ---
+
+# 📩 Feedback
+If you have any feedback, please reach out to me at Linkedin: https://www.linkedin.com/in/gibranelgiffary
