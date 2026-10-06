@@ -155,6 +155,6 @@ git clone https://github.com/YOUR_USERNAME/bike-store-sql-analytics.git
 ## About
 
 **Muhammad Gibran Elgiffary**
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/gibranelgiffary) · [GitHub](https://github.com/Girban28)
 
 Dataset by Dillon Myrick — fictional data for educational use.
