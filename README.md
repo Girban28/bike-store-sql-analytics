@@ -6,7 +6,7 @@ An end-to-end SQL analytics project on a fictional bike store chain from buildin
 
 ---
 
-## 📌Project Overview
+## 📌 Project Overview
 
 This project analyzes operational data from a 3-store bike retail chain across the US (California, New York, Texas) covering January 2016 to March 2018. The goal was to extract actionable business insights across five dimensions using MySQL on a 9-table relational database.
 
@@ -17,7 +17,7 @@ It's structured in three stages:
 
 ---
 
-## 📊Database at a Glance
+## 📊 Database at a Glance
 
 | | |
 |---|---|
@@ -30,7 +30,7 @@ It's structured in three stages:
 | **Net revenue** | $6.66M (after discount) |
 | **Period** | Jan 2016 – Mar 2018 |
 
-### 📉Entity Relationship Diagram
+### 📉 Entity Relationship Diagram
 
 ![ERD](assets/erd-diagram.png)
 
@@ -57,7 +57,7 @@ It's structured in three stages:
 
 ---
 
-## 🛠️Tools
+## 🛠️ Tools
 
 | Tool | Used for |
 |---|---|
@@ -66,7 +66,7 @@ It's structured in three stages:
 
 ---
 
-## 🔍Business Problems & Findings
+## 🔍 Business Problems & Findings
 
 ### BP 01 - Revenue Performance per Store & Year
 
@@ -118,7 +118,7 @@ Marcelene Boyer (Baldwin) is the overall top performer with **$2.4M revenue acro
 
 ---
 
-## 🎯Key Findings Summary
+## 🎯 Key Findings Summary
 
 ![Key Insights](assets/key-insights.png)
 
@@ -132,7 +132,7 @@ Marcelene Boyer (Baldwin) is the overall top performer with **$2.4M revenue acro
 
 ---
 
-## 🚀How to Reproduce
+## 🚀 How to Reproduce
 
 ```bash
 git clone https://github.com/Girban28/bike-store-sql-analytics.git
