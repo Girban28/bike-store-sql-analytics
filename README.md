@@ -135,7 +135,7 @@ Marcelene Boyer (Baldwin) is the overall top performer with **$2.4M revenue acro
 ## How to Reproduce
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bike-store-sql-analytics.git
+git clone https://github.com/Girban28/bike-store-sql-analytics.git
 ```
 
 1. Open MySQL Workbench and create a new schema: `bike_store`
