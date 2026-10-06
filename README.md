@@ -6,7 +6,7 @@ An end-to-end SQL analytics project on a fictional bike store chain from buildin
 
 ---
 
-## Project Overview
+## 📌Project Overview
 
 This project analyzes operational data from a 3-store bike retail chain across the US (California, New York, Texas) covering January 2016 to March 2018. The goal was to extract actionable business insights across five dimensions using MySQL on a 9-table relational database.
 
